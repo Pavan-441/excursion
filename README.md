@@ -67,7 +67,7 @@ To run this project locally:
 ## 🌐 Live Preview
 
 Check out the deployed version:  
-👉 [https://<your-username>.github.io/excursion](https://<your-username>.github.io/excursion)
+👉 [[https://.github.io/excursion](https://pavan-441.github.io/excursion/)]
 
 ---
 
